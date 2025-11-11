@@ -1,16 +1,16 @@
 ![Header](https://github.com/yunismalik133/yunismalik133/blob/main/mybanner.jpg)
 <h1 align="center">
-  Hi 👋, I'm Mir Moeez
+  Hi 👋, I'm Yunis Ahmad Malik
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
 <h3 align="center">A passionate frontend developer & Programmer from Kashmir</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeezmir&label=Profile%20views&color=0e75b6&style=flat" alt="moeezmir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunismalik133&label=Profile%20views&color=0e75b6&style=flat" alt="yunismalik133" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeezmir" alt="moeezmir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunismalik133" alt="yunismalik133" /></a> </p>
 <!-- banner link -->
 <!-- Facebook -->
-<a href="https://www.facebook.com/moeezmirI" target="_blank">
+<a href="https://www.facebook.com/yunismalik133I" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
 </a>
 
@@ -30,18 +30,18 @@
 </a>
 
 <!-- Gmail -->
-<a href="mailto:moeezmir2019@gmail.com" target="_blank">
+<a href="mailto:yunismalik1332019@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
 
 
-- 👨‍💻 All of my projects are available at [https://moeezmir.netlify.app/](https://moeezmir.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yunismalik133.netlify.app/](https://yunismalik133.netlify.app/)
 
 - 💬 Ask me about *- Improving UI/UX design skills - Writing better codes - Making Website designs*
 
-- 📫 How to reach me *moeezmir2019@gmail.com*
+- 📫 How to reach me *yunismalik1332019@gmail.com*
 
-- 📄 Know about my experiences [https://moeezmir.netlify.app/](https://moeezmir.netlify.app/)
+- 📄 Know about my experiences [https://yunismalik133.netlify.app/](https://yunismalik133.netlify.app/)
 
 - ⚡ Fun fact *I once built a full website just to prove a point in a classroom debate—and it worked! Turns out, code speaks louder than words.*
 <img src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF" height="150" align="right" />
@@ -49,7 +49,7 @@
 <p align="left">
 <a href="https://x.com/thypholosion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thypholosion" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mir-moeez-860b5b334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mir-moeez-860b5b334" height="30" width="40" /></a>
-<a href="https://www.facebook.com/moeezmirI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moeezmiri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yunismalik133I" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yunismalik133i" height="30" width="40" /></a>
 <a href="https://www.instagram.com/moeez_mir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moeez_mir_" height="30" width="40" /></a>
 </p>
 
@@ -61,11 +61,11 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeezmir&show_icons=true&locale=en&layout=compact" alt="moeezmir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunismalik133&show_icons=true&locale=en&layout=compact" alt="yunismalik133" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeezmir&show_icons=true&locale=en" alt="moeezmir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunismalik133&show_icons=true&locale=en" alt="yunismalik133" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeezmir&" alt="moeezmir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunismalik133&" alt="yunismalik133" /></p>
 
 <!--Hello in Different Languages-->
 <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIxNTQ5MjYsIm5iZiI6MTc2MjE1NDYyNiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAzVDA3MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4YTBjYzg3ZWMyNmViMmY0ZDNhMzg2Zjg2MTU4NWYzZDk1MmU2NTNlMjVkNmVhNjU1MDRlZGI4NzJjZWQ4NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cqm7BUcGyVZ7DwKzBLrYDdCmAITh0uCHcCkMk2aS_f8">
