@@ -44,7 +44,7 @@
 - 📄 Know about my experiences [https://yunismalik133.netlify.app/](https://yunismalik133.netlify.app/)
 
 - ⚡ Fun fact *I once built a full website just to prove a point in a classroom debate—and it worked! Turns out, code speaks louder than words.*
-<img src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF" height="150" align="right" />
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI4NTE5NjIsIm5iZiI6MTc2Mjg1MTY2MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTExVDA5MDEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxNTMwNzc0MmE0ODg1ODE3YTBhNWE1MjQ5Njk4NGFkZGJlNGZlMWQ3ZWFiMzdjYzdjODE2MmEwZTA5NTU1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UvltkBXOeQt2KpklbGt3FqhRi8A-OLQibYJAaq3l3ug" alt="Funny GIF" height="150" align="right" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/thypholosion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thypholosion" height="30" width="40" /></a>
